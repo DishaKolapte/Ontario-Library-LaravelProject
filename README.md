@@ -14,7 +14,7 @@ The application features:
 
 ## Screenshots
 ![Homepage](screenshots/admin_homepage.png)
-![Author List](screenshots/admin_authors_list.pngv)
+![Author List](screenshots/admin_authors_list.png)
 ![Book List](screenshots/books_list.png)
 ![Add Author](screenshots/add_author.png)
 ![Edit Author](screenshots/edit_author.png)
