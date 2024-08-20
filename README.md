@@ -13,16 +13,16 @@ The application features:
   - **Books Table**: Stores information about books with columns `id`, `title`, `author_id` (foreign key), and `summary`.
 
 ## Screenshots
-![Homepage]()
-![Author List]([path_to_screenshot_2.png](https://github.com/DishaKolapte/Ontario-Library-LaravelProject/blob/main/screenshots/add_author.png?raw=true)
-![Book List](path_to_screenshot_3.png)
+![Homepage](screenshots/admin_homepage.png)
+![Author List](screenshots/admin_authors_list.pngv)
+![Book List](screenshots/books_list.png)
 ![Add Author](screenshots/add_author.png)
-![Edit Author](path_to_screenshot_5.png)
-![Delete Author](path_to_screenshot_6.png)
-![Add Book](path_to_screenshot_7.png)
-![Edit Book](path_to_screenshot_8.png)
-![Delete Book](path_to_screenshot_9.png)
-![Login Page](path_to_screenshot_10.png)
+![Edit Author](screenshots/edit_author.png)
+![Delete Author](screenshots/author_details.png)
+![Add Book](screenshots/add_books.png)
+![Edit Book](screenshots/boot_edit.png)
+![Delete Book](screenshots/books_details.png)
+![Login Page](screenshots/user_home.png)
 
 ## Incomplete Features
 While the core functionality of the application has been implemented, I intended to add additional features such as advanced search functionality for books and authors, and more detailed analytics for user activity. Unfortunately, due to time constraints and prioritization of basic features, these additional aspects were not completed. 
