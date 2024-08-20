@@ -16,7 +16,7 @@ The application features:
 ![Homepage]()
 ![Author List]([path_to_screenshot_2.png](https://github.com/DishaKolapte/Ontario-Library-LaravelProject/blob/main/screenshots/add_author.png?raw=true)
 ![Book List](path_to_screenshot_3.png)
-![Add Author](path_to_screenshot_4.png)
+![Add Author](screenshots/add_author.png)
 ![Edit Author](path_to_screenshot_5.png)
 ![Delete Author](path_to_screenshot_6.png)
 ![Add Book](path_to_screenshot_7.png)
