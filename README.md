@@ -13,8 +13,8 @@ The application features:
   - **Books Table**: Stores information about books with columns `id`, `title`, `author_id` (foreign key), and `summary`.
 
 ## Screenshots
-![Homepage](path_to_screenshot_1.png)
-![Author List](path_to_screenshot_2.png)
+![Homepage]()
+![Author List]([path_to_screenshot_2.png](https://github.com/DishaKolapte/Ontario-Library-LaravelProject/blob/main/screenshots/add_author.png?raw=true)
 ![Book List](path_to_screenshot_3.png)
 ![Add Author](path_to_screenshot_4.png)
 ![Edit Author](path_to_screenshot_5.png)
